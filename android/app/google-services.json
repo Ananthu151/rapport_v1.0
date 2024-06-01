@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188349489596",
+    "project_id": "rapport-f7bbf",
+    "storage_bucket": "rapport-f7bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188349489596:android:d25fedcd91646ae0538bb9",
+        "android_client_info": {
+          "package_name": "com.example.rapport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188349489596-cm0g8m6sc59t06eaop3qne56bf5sfrpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1V3Kpro2r9cHh3vblgPd5MyYmIQTWbv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188349489596-cm0g8m6sc59t06eaop3qne56bf5sfrpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
